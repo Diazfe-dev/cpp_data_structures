@@ -1,0 +1,19 @@
+# Archivos compilados
+*.o
+*.obj
+*.exe
+
+# Directorios de build
+build/
+cmake-build-*/
+
+# Archivos de IDEs
+.vscode/
+.idea/
+*.user
+*.suo
+*.vcxproj*
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
